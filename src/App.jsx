@@ -8,7 +8,7 @@ import FeedbackAndContact from './components/FeedbackAndContact';
 
 function App() {
   return (
-    <div className="min-h-screen bg-white font-sans text-gray-900 selection:bg-blue-100 selection:text-blue-900">
+    <div className="min-h-screen bg-lensfit-bg font-gordita text-white selection:bg-lensfit-red selection:text-white">
       <Header />
       <main>
         <Hero />
